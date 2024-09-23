@@ -3,6 +3,8 @@
 ## Overview
 The **Personalized AI-Driven Travel Itinerary Generator** is a web application that provides travelers with personalized travel itineraries based on user preferences. By leveraging machine learning and generative AI technologies, the application generates tailored travel plans, including weather conditions and hotel recommendations.
 
+<img src="PHOTO-2024-09-24-02-42-46.jpg" alt="Travel Reccomendation" width="1000" height="500">
+
 ## Problem Statement
 Travelers often face challenges when planning their trips, such as:
 - Lack of personalized recommendations.
@@ -14,6 +16,17 @@ This application addresses these challenges by:
 - Taking user inputs (budget, interests, trip duration, and destination) to generate a personalized travel plan.
 - Providing weather forecasts for the destination, broken down by day during the trip.
 - Recommending hotels based on user preferences, including room type and location.
+
+- ## Dataset link for Hotel Recomendation - https://www.kaggle.com/datasets/keshavramaiah/hotel-recommendation
+
+## Files in the Project
+- **home.py**: Main application file for generating travel itineraries.
+- **weather.py**: Handles weather-related functionalities and API integration.
+- **hotel.py**: Manages hotel recommendations based on user preferences.
+- **requirements.txt**: List of required Python packages for the project.
+- **recommendation_model.pkl**: Trained machine learning model for hotel recommendations.
+- **.env**: Contains environment variables for API keys (not included in the repo for security reasons).
+
 
 ## Technology Stack
 - **Streamlit:** For building the web application.
