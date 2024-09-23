@@ -1,6 +1,3 @@
-Here's the updated README file with your specified features included:
-
-```markdown
 # Personalized AI-Driven Travel Itinerary Generator
 
 ## Overview
@@ -89,7 +86,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For inquiries or feedback, please contact:
 - Rajesh Kumar Jena
-- Email: your-email@example.com
-```
-
-Feel free to customize it further or add any additional information you think is necessary!
+- Email: rajeshkumarjena400@gmail.com
